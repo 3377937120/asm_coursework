@@ -1,0 +1,12 @@
+# MASM/TASM and linker build outputs
+*.obj
+*.exe
+*.com
+*.lst
+*.map
+*.crf
+
+# Temporary editor files
+*.bak
+*.tmp
+*~
